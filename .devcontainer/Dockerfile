@@ -1,0 +1,2 @@
+# goバージョン
+FROM haskell
